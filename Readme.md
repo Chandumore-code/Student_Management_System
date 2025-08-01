@@ -42,5 +42,5 @@ spring.datasource.password=your_password
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 .
 📸 Screenshot
-### 🏠 Home Page
+   the screenshort of home page given in the above screenshort folder please look this.
  
